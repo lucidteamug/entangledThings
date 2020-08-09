@@ -1,0 +1,11 @@
+
+1. Entangled Particles & Measurements: Rotation By Theta & Measurements
+   1. Rotation by Theta and measuring in the standard basis in the equivalent of measuring in the Theta basis and we will use this interchangeably. 
+   2. Bell State
+      1. Rotate both Qbits by Rotation gate, Theta then measure QBit A 
+         1. Geometrically express collapse of QBit B 
+         2. Matric/Mathematically express collapse of QBit B
+            1. Disclaimer that any rotation by Theta of both particles, followed by a measurement will still yield |11> or |00> because rotating the bell state is a special 4D rotation that always results in the bell state! → Show matrix algebra proof
+            2. Show a rotation by Theta=(PI/6) of both particles originally in the (½)[1 1 1 1] state to emphasize 4D rotations can (and usually do) result in a different output vector than input 
+      2. Explain that if only  Qbit A is rotated by Theta, then the resulting vector actually expresses the possible states with QbitA in the Theta basis and Qbit B in the original basis (pencil in very clearly the basis on the vector)
+2. Cats Photos
